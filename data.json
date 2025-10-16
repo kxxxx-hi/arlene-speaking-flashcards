@@ -1,670 +1,672 @@
+Yes. Four English strings needed escaping. Here is the corrected JSON:
+
 {
-  "flashcards": [
-    {
-      "category": "Music & Artist: G-Dragon",
-      "chinese": "我想谈的这位歌手是来自韩国的 G-Dragon。",
-      "english": "The singer I want to talk about is G-Dragon from South Korea.",
-      "type": "sentence"
-    },
-    {
-      "category": "Music & Artist: G-Dragon",
-      "chinese": "他是著名团体 BIGBANG 的队长，同时也保持着令人难以置信的成功个人事业。",
-      "english": "He is the leader of the famous group called BIGBANG, and he also maintains an incredibly successful solo career.",
-      "type": "sentence"
-    },
-    {
-      "category": "Music Discovery",
-      "chinese": "我第一次听说他是在高中，因为他的歌曲《Fantastic Baby》无处不在。",
-      "english": "I first heard about him when I was in high school because his song ‘Fantastic Baby’ was everywhere.",
-      "type": "sentence"
-    },
-    {
-      "category": "Music Discovery",
-      "chinese": "它非常流行且旋律很抓人，定义了 K-pop 多年的全球声音，那时他就抓住了我的注意力。",
-      "english": "It was incredibly popular and catchy, defining the sound of K-pop globally for years, and that was when he caught my attention.",
-      "type": "sentence"
-    },
-    {
-      "category": "Music Listening Habit",
-      "chinese": "现在，我经常在公交车上或只是在家放松时用手机听他的音乐。",
-      "english": "Now, I often listen to his music on my phone when I’m on the bus or just relaxing at home.",
-      "type": "sentence"
-    },
-    {
-      "category": "Music Style",
-      "chinese": "他的主要音乐风格是流行和嘻哈，但他巧妙地将这些流派与电子音效混合，这让歌曲听起来非常现代和令人兴奋。",
-      "english": "His primary musical style is pop and hip-hop, but he cleverly mixes these music styles/genres with electronic sounds, which makes the tracks feel very modern and exciting.",
-      "type": "sentence"
-    },
-    {
-      "category": "Music Style",
-      "chinese": "其结果是音乐总是活力的，在我需要提振精神时非常适合聆听。",
-      "english": "The result is music that is always dynamic and perfect for listening to when I need a boost of energy.",
-      "type": "sentence"
-    },
-    {
-      "category": "Creativity & Talent",
-      "chinese": "我喜欢他和他的音乐的主要原因是他不只是一个歌手；他也是大部分歌曲的词曲作者和制作人，对每个创意元素都负责。",
-      "english": "The main reason I like him and his music is that he is not just a singer; he is also the person who writes and produces most of his songs, taking responsibility for every creative element.",
-      "type": "sentence"
-    },
-    {
-      "category": "Creativity & Talent",
-      "chinese": "这种深入的参与让他的作品感觉非常个人化和真实。",
-      "english": "This thorough/deep/comprehensive involvement makes his work feel very personal and real.",
-      "type": "sentence"
-    },
-    {
-      "category": "Creativity & Talent",
-      "chinese": "例如，他的一首个人单曲《Crooked》以一种非常有力的方式讲述了心碎和迷失的感觉。",
-      "english": "For example, one of his solo tracks, ‘Crooked,’ talks about heartbreak and feeling lost in a very powerful way.",
-      "type": "sentence"
-    },
-    {
-      "category": "Inspiration",
-      "chinese": "当我听他的音乐时，我感到充满活力，也深受启发，因为他展现了你可以在不妥协的情况下保持高度的创造力和忠于自我。",
-      "english": "When I listen to his music, I feel energetic and also deeply inspired, as he shows that you can be highly creative and true to yourself without compromise.",
-      "type": "sentence"
-    },
-    {
-      "category": "Fashion Icon",
-      "chinese": "我要把 G-Dragon 描述成我认识的穿着最不寻常和最独特衣服的人。",
-      "english": "I'm going to describe G-Dragon, a famous Korean musician, as the person who wears the most unusual and unique clothes I know.",
-      "type": "sentence"
-    },
-    {
-      "category": "Fashion Discovery",
-      "chinese": "虽然我个人不认识他，但我密切关注他的社交媒体，所以我觉得我对他的风格很了解。",
-      "english": "While I don't know him personally, I follow him closely on social media, so I feel like I know his style very well.",
-      "type": "sentence"
-    },
-    {
-      "category": "Fashion Style",
-      "chinese": "他的时尚感总是非常特别，与大多数人的穿着不同，总是以大胆的设计挑战传统的时尚标准。",
-      "english": "His fashion sense is always very special and different from what most people wear, always challenging conventional fashion standards with bold designs.",
-      "type": "sentence"
-    },
-    {
-      "category": "Fashion Style",
-      "chinese": "他的服装非常有创意，而且常常出乎意料。",
-      "english": "His outfits are incredibly creative and often unpredictable.",
-      "type": "sentence"
-    },
-    {
-      "category": "Fashion Details",
-      "chinese": "有时他会用色彩鲜艳的设计师鞋子搭配独特的复古单品/配饰，而其他时候他可能会穿一件意想不到的单品，比如结构化的裙子或一件超大号的定制夹克。",
-      "english": "Sometimes he mixes colorful designer shoes with unique vintage items/earrings/belts/shoes/watches, and other times he might wear unexpected pieces like a structured skirt or an extremely oversized, tailored jacket.",
-      "type": "sentence"
-    },
-    {
-      "category": "Fashion Attitude",
-      "chinese": "他显然不害怕尝试新事物和突破界限，这在一个拥有如此大公共平台的公众人物身上，让我觉得很了不起。",
-      "english": "He is clearly not afraid to try new things and push boundaries, which I find admirable in someone with such a large public platform.",
-      "type": "sentence"
-    },
-    {
-      "category": "Fashion Example",
-      "chinese": "例如，我记得看到一张他出席一个重要时装秀的照片，他穿着一套亮红色的皮装，搭配许多银色链条，这身打扮既大胆又非常不寻常，但他穿出了巨大的自信。",
-      "english": "For example, I remember seeing a photo where he attended a major fashion show wearing a bright red leather outfit paired with many silver chains, a look that was both bold and very unusual, but which he wore with immense confidence.",
-      "type": "sentence"
-    },
-    {
-      "category": "Fashion Philosophy",
-      "chinese": "我认为他的衣服如此独特的核心原因是，他将时尚视为他艺术和音乐表演的延伸。",
-      "english": "I think the core reason why his clothes are so unique is that he views fashion as an extension of his art and musical performance.",
-      "type": "sentence"
-    },
-    {
-      "category": "Fashion Philosophy",
-      "chinese": "他穿着打扮不是为了追随瞬间的潮流或墨守成规的社交规则；他穿着纯粹是为了表达他复杂的个性和当前的心情，本质上是把自己的身体当作画布。",
-      "english": "He doesn't dress to follow momentary trends or stick to strict social rules; he dresses solely to express his complex personality and his current mood, essentially treating his body like a canvas.",
-      "type": "sentence"
-    },
-    {
-      "category": "Fashion Impact",
-      "chinese": "他已经成为了一个真正的时尚偶像，不仅影响了亚洲，也影响了全球的街头风格，这就是为什么我认为他是我认识的最有创意着装的人。",
-      "english": "He has become a true fashion icon, influencing not just Asia, but also global street style, which is why I consider him the most creatively dressed person I know.",
-      "type": "sentence"
-    },
-    {
-      "category": "Creative Person",
-      "chinese": "我真正敬佩的创意型人物是韩国音乐家 G-Dragon。",
-      "english": "The creative person I really admire is the South Korean musician, G-Dragon.",
-      "type": "sentence"
-    },
-    {
-      "category": "Creative Person",
-      "chinese": "他被高度评价为词曲作者、制作人和文化人物。",
-      "english": "He is highly regarded as a songwriter, producer, and cultural figure.",
-      "type": "sentence"
-    },
-    {
-      "category": "Music Impact",
-      "chinese": "最初打动我的是他作为核心创意引擎，负责创作和谱写了他们大部分的热门歌曲，比如《Fantastic Baby》和《Lies》。",
-      "english": "What initially impressed me was the fact that he was the core creative engine, responsible for writing and composing most of their hit songs, such as ‘Fantastic Baby’ and ‘Lies’.",
-      "type": "sentence"
-    },
-    {
-      "category": "Industry Innovation",
-      "chinese": "我相信他最大的成就是他彻底重新定义了 K-pop 明星的形象。",
-      "english": "I believe his greatest achievement is how he completely redefined the image of a K-pop star.",
-      "type": "sentence"
-    },
-    {
-      "category": "Industry Innovation",
-      "chinese": "在他之前，许多偶像只是表演给他们的歌曲，但他确立了自我制作艺术家的模式，控制自己的声音和信息，这对行业来说是真正的革命性。",
-      "english": "Before him, many idols simply performed songs given to them, but he established the model of a self-producing artist who controls their own sound and message, which was truly revolutionary for the industry.",
-      "type": "sentence"
-    },
-    {
-      "category": "Creative Diversity",
-      "chinese": "我发现他如此具有非凡创造力的原因是他的才华远远超出了音乐创作。",
-      "english": "The reason I find him so exceptionally creative is that his talent extends far beyond music composition.",
-      "type": "sentence"
-    },
-    {
-      "category": "Creative Diversity",
-      "chinese": "他在时尚和舞台表演方面也极具创新性。",
-      "english": "He is also immensely innovative in both fashion and stage performance.",
-      "type": "sentence"
-    },
-    {
-      "category": "Performance Design",
-      "chinese": "例如，他亲自设计他的演唱会舞台，确保每场演出都是一次独特且沉浸式的视觉体验。",
-      "english": "For instance, he personally designs his concert stages, ensuring every show is a unique and immersive visual experience.",
-      "type": "sentence"
-    },
-    {
-      "category": "Music Video Artistry",
-      "chinese": "此外，他的音乐视频一贯具有非常有趣和高度艺术性的概念，通常看起来更像短片、高预算的艺术电影，而非典型的音乐视频。",
-      "english": "Furthermore, his music videos consistently feature very interesting and highly artistic concepts, often looking more like short, high-budget art films than typical music videos.",
-      "type": "sentence"
-    },
-    {
-      "category": "Originality",
-      "chinese": "他似乎总能想出新的点子，并持续避免重复他过去的作品。",
-      "english": "He always seems to come up with new ideas and continuously avoids repeating his past work.",
-      "type": "sentence"
-    },
-    {
-      "category": "Overall Inspiration",
-      "chinese": "对我来说，这种对原创性和创新的持续追求使他成为一个真正的全方位艺术家。",
-      "english": "For me, this constant drive for originality and innovation makes him a true, all-around artist.",
-      "type": "sentence"
-    },
-    {
-      "category": "Overall Inspiration",
-      "chinese": "他成功融合不同创意领域的能力——从写出深刻有力的歌词到引领全球时尚潮流——是我最钦佩他的地方。",
-      "english": "His ability to successfully fuse different creative fields—from writing deeply powerful lyrics to setting global fashion trends—is what I truly admire most about him.",
-      "type": "sentence"
-    },
-    {
-      "category": "Intelligence & Business Acumen",
-      "chinese": "当我想起一个聪明的人时，我立刻想到韩国音乐家 G-Dragon。",
-      "english": "When I think of an intelligent person, I immediately think of the South Korean musician, G-Dragon.",
-      "type": "sentence"
-    },
-    {
-      "category": "Intelligence & Business Acumen",
-      "chinese": "他不仅是一位非常成功的艺术家，也是一个横跨亚洲的重要文化偶像。",
-      "english": "He is not only a highly successful artist but also a significant cultural icon across Asia.",
-      "type": "sentence"
-    },
-    {
-      "category": "Versatility",
-      "chinese": "他所做的事情远远超出了简单的唱歌；他是一名词曲作者、一位一丝不苟的音乐制作人，以及一位真正的时装设计师，在各种创意和商业领域展示了巨大的才华。",
-      "english": "What he does goes far beyond simple singing; he is a songwriter, a meticulous music producer, and a genuine fashion designer, demonstrating immense talent across various creative and commercial fields.",
-      "type": "sentence"
-    },
-    {
-      "category": "Business Intelligence",
-      "chinese": "我认为他非常聪明，因为他拥有非常敏锐的商业头脑和对如何管理一个长期品牌的出色理解。",
-      "english": "I believe he is highly intelligent because he possesses a very sharp business mind and an excellent understanding of how to manage a long-term brand.",
-      "type": "sentence"
-    },
-    {
-      "category": "Business Strategy",
-      "chinese": "他成功地驾驭了竞争激烈的娱乐业，表明他清楚地知道如何建立他的个人品牌并长期保持知名度和影响力，这需要战略思维。",
-      "english": "He has successfully navigated the highly competitive entertainment industry, showing that he knows precisely how to build his personal brand and stay famous and relevant for a long period, which requires strategic thinking.",
-      "type": "sentence"
-    },
-    {
-      "category": "Business Example",
-      "chinese": "他智慧的完美例子是当他创立了自己非常成功的时尚品牌 PEACEMINUSONE 时。它立即变得非常受欢迎，证明了他对市场趋势和青年文化的敏锐洞察力。",
-      "english": "A perfect example of his intelligence in action is when he established his own highly successful fashion label called PEACEMINUSONE. It became incredibly popular immediately, proving his acute awareness of market trends and youth culture.",
-      "type": "sentence"
-    },
-    {
-      "category": "Creative Intelligence",
-      "chinese": "此外，他在一种独特的创意方式上是聪明的。他真正理解年轻人喜欢和渴望什么，这使他能够不断地在音乐和全球时尚中创造和影响新趋势。",
-      "english": "Furthermore, he is intelligent in a uniquely creative way. He truly understands what young people like and desire, which allows him to constantly create and influence new trends in both music and global fashion.",
-      "type": "sentence"
-    },
-    {
-      "category": "Type of Intelligence",
-      "chinese": "因此，他的智慧不是仅仅来自书本或学术研究的传统类型，而是一种特殊而有价值的智慧，它来自于对文化、商业和艺术方向的深刻、直觉的理解。",
-      "english": "Therefore, his intelligence is not the traditional kind derived merely from books or academic study, but rather a special and valuable kind that comes from a deep, intuitive understanding of culture, business, and artistic direction.",
-      "type": "sentence"
-    },
-    {
-      "category": "Type of Intelligence",
-      "chinese": "这种创造力与商业头脑的融合使他的智慧如此特别。",
-      "english": "That blend of creativity and commercial sense is what makes his intelligence so special.",
-      "type": "sentence"
-    },
-    {
-    "category": "Music & Artist: G-Dragon",
-    "chinese": "我想谈的这位歌手是来自韩国的 G-Dragon。",
-    "english": "The singer I want to talk about is G-Dragon from South Korea.",
-    "type": "sentence"
-    },
-    {
-    "category": "Music & Artist: G-Dragon",
-    "chinese": "他是 BIGBANG 的队长，同时也有非常成功的个人事业。",
-    "english": "He is the leader of BIGBANG and also has a very successful solo career.",
-    "type": "sentence"
-    },
-    {
-    "category": "Music & Artist: G-Dragon",
-    "chinese": "我在高中第一次认识他，因为他的歌曲《Fantastic Baby》到处都在播放。",
-    "english": "I first knew about him in high school because his song "Fantastic Baby" was everywhere.",
-    "type": "sentence"
-    },
-    {
-    "category": "Music & Artist: G-Dragon",
-    "chinese": "我现在在公交车上或在家用手机听他的音乐。",
-    "english": "I now listen to his music on my phone on the bus or at home.",
-    "type": "sentence"
-    },
-    {
-    "category": "Music & Artist: G-Dragon",
-    "chinese": "他的音乐主要是流行与嘻哈，混合电子元素。",
-    "english": "His music is mainly pop and hip-hop mixed with electronic sounds.",
-    "type": "sentence"
-    },
-    {
-    "category": "Music & Artist: G-Dragon",
-    "chinese": "他自己创作并制作大部分歌曲。",
-    "english": "He writes and produces most of his songs.",
-    "type": "sentence"
-    },
-    {
-    "category": "Music & Artist: G-Dragon",
-    "chinese": "《Crooked》以有力的方式讲述了心碎。",
-    "english": ""Crooked" talks about heartbreak in a powerful way.",
-    "type": "sentence"
-    },
-    {
-    "category": "Music & Artist: G-Dragon",
-    "chinese": "他的作品让我感到充满活力并受到启发。",
-    "english": "His work makes me feel energetic and inspired.",
-    "type": "sentence"
-    },
-    {
-    "category": "Fashion & Style: G-Dragon",
-    "chinese": "我在社交媒体上关注 G-Dragon，并且对他的风格很熟悉。",
-    "english": "I follow G-Dragon on social media and know his style well.",
-    "type": "sentence"
-    },
-    {
-    "category": "Fashion & Style: G-Dragon",
-    "chinese": "他的衣服独特，与他人所穿的不同。",
-    "english": "His clothes are unique and different from what other people wear.",
-    "type": "sentence"
-    },
-    {
-    "category": "Fashion & Style: G-Dragon",
-    "chinese": "他有时穿色彩丰富的设计师街头服饰。",
-    "english": "Sometimes he wears colorful designer streetwear.",
-    "type": "sentence"
-    },
-    {
-    "category": "Fashion & Style: G-Dragon",
-    "chinese": "他不怕尝试新事物。",
-    "english": "He is not afraid to try new things.",
-    "type": "sentence"
-    },
-    {
-    "category": "Fashion & Style: G-Dragon",
-    "chinese": "他把时尚看作艺术。",
-    "english": "He sees fashion as art.",
-    "type": "sentence"
-    },
-    {
-    "category": "Fashion & Style: G-Dragon",
-    "chinese": "他的穿着用来表达个性与心情。",
-    "english": "He dresses to express his personality and mood.",
-    "type": "sentence"
-    },
-    {
-    "category": "Fashion & Style: G-Dragon",
-    "chinese": "他引领潮流，许多年轻人模仿他的风格。",
-    "english": "He is a trendsetter and many young people copy his style.",
-    "type": "sentence"
-    },
-    {
-    "category": "Business & Brand: G-Dragon",
-    "chinese": "他是作词人、制作人和时装设计师。",
-    "english": "He is a songwriter, producer, and fashion designer.",
-    "type": "sentence"
-    },
-    {
-    "category": "Business & Brand: G-Dragon",
-    "chinese": "他有敏锐的商业头脑，擅长打造自己的品牌。",
-    "english": "He has a sharp business mind and builds his brand well.",
-    "type": "sentence"
-    },
-    {
-    "category": "Business & Brand: G-Dragon",
-    "chinese": "他创立了时尚品牌 PEACEMINUSONE。",
-    "english": "He founded the fashion label PEACEMINUSONE.",
-    "type": "sentence"
-    },
-    {
-    "category": "Business & Brand: G-Dragon",
-    "chinese": "该品牌立刻变得非常受欢迎。",
-    "english": "The label became incredibly popular immediately.",
-    "type": "sentence"
-    },
-    {
-    "category": "Business & Brand: G-Dragon",
-    "chinese": "他了解年轻人的喜好并创造新趋势。",
-    "english": "He understands what young people like and creates new trends.",
-    "type": "sentence"
-    },
-    {
-    "category": "People & Community: Grandma Su",
-    "chinese": "我的邻居苏奶奶经营着一家很受欢迎的饺子馆。",
-    "english": "My neighbor, Grandma Su, owns a popular dumpling restaurant.",
-    "type": "sentence"
-    },
-    {
-    "category": "People & Community: Grandma Su",
-    "chinese": "二十多年来她和丈夫以及儿子一起经营这家生意。",
-    "english": "She ran the business with her husband and son for more than two decades.",
-    "type": "sentence"
-    },
-    {
-    "category": "People & Community: Grandma Su",
-    "chinese": "在退休前，她从厨房到客服都一手打理。",
-    "english": "Before retiring, she managed everything from the kitchen to customer service.",
-    "type": "sentence"
-    },
-    {
-    "category": "People & Community: Grandma Su",
-    "chinese": "现在由她的儿子负责日常运营，而她几乎每天仍在帮忙。",
-    "english": "Her son now handles daily operations, and she still helps almost every day.",
-    "type": "sentence"
-    },
-    {
-    "category": "People & Community: Grandma Su",
-    "chinese": "她曾邀请我进去并教我包饺子。",
-    "english": "She once invited me in and taught me how to make dumplings.",
-    "type": "sentence"
-    },
-    {
-    "category": "People & Community: Grandma Su",
-    "chinese": "在中国文化中，制作与分享饺子是珍贵的家庭传统。",
-    "english": "Making and sharing dumplings is a cherished family tradition in Chinese culture.",
-    "type": "sentence"
-    },
-    {
-    "category": "People & Community: Grandma Su",
-    "chinese": "她指导我准备面团和新鲜食材。",
-    "english": "She guided me through preparing the dough and fresh ingredients.",
-    "type": "sentence"
-    },
-    {
-    "category": "People & Community: Grandma Su",
-    "chinese": "我们把饺子折成有创意的形状，然后下锅煮。",
-    "english": "We folded the dumplings into creative shapes and then boiled them.",
-    "type": "sentence"
-    },
-    {
-    "category": "People & Community: Grandma Su",
-    "chinese": "她乐观、勤劳且精力充沛。",
-    "english": "She is optimistic, diligent, and full of energy.",
-    "type": "sentence"
-    },
-    {
-    "category": "Gardening",
-    "chinese": "她在阳台上种了葱、姜、蒜、泰国罗勒和西红柿。",
-    "english": "She grows spring onions, ginger, garlic, Thai basil, and tomatoes on her balcony.",
-    "type": "sentence"
-    },
-    {
-    "category": "Gardening",
-    "chinese": "她把一个小小的城市阳台改造成了高产的迷你花园。",
-    "english": "She transformed a small city balcony into a productive mini garden.",
-    "type": "sentence"
-    },
-    {
-    "category": "Gardening",
-    "chinese": "她自家种的食材比市场买的更好吃。",
-    "english": "Her homegrown ingredients taste better than those from the market.",
-    "type": "sentence"
-    },
-    {
-    "category": "Family & Traditions",
-    "chinese": "我保留着一本记录我们家族历史的相册。",
-    "english": "I keep a photo album that holds our family history.",
-    "type": "sentence"
-    },
-    {
-    "category": "Family & Traditions",
-    "chinese": "父母结婚后开始制作它，如今已有二十五年以上历史。",
-    "english": "My parents started it after they married, and it is over 25 years old.",
-    "type": "sentence"
-    },
-    {
-    "category": "Family & Traditions",
-    "chinese": "我们在特殊的日子翻看相册并分享照片背后的故事。",
-    "english": "We open it on special occasions and share stories behind the pictures.",
-    "type": "sentence"
-    },
-    {
-    "category": "Family & Traditions",
-    "chinese": "它是一件展示我们家庭如何成长的珍宝。",
-    "english": "It is a treasure that shows how our family has grown.",
-    "type": "sentence"
-    },
-    {
-    "category": "Family & Traditions",
-    "chinese": "除夕夜我们全家一起包饺子。",
-    "english": "On Chinese New Year’s Eve we made dumplings together as a family.",
-    "type": "sentence"
-    },
-    {
-    "category": "Family & Traditions",
-    "chinese": "奶奶擀皮，孩子们来包饺子。",
-    "english": "My grandma made the wrappers and the kids folded the dumplings.",
-    "type": "sentence"
-    },
-    {
-    "category": "Family & Traditions",
-    "chinese": "这顿团圆饭很有意义，因为我们难得在同一座城市相聚。",
-    "english": "The dinner was meaningful because we rarely gather in one city.",
-    "type": "sentence"
-    },
-    {
-    "category": "Travel & Nature",
-    "chinese": "去年夏天我夜爬武功山，只为看日出。",
-    "english": "Last summer I hiked Wugong Mountain overnight to catch the sunrise.",
-    "type": "sentence"
-    },
-    {
-    "category": "Travel & Nature",
-    "chinese": "天空变成金色，云海如雾。",
-    "english": "The sky turned golden and the clouds looked like a sea of mist.",
-    "type": "sentence"
-    },
-    {
-    "category": "Travel & Nature",
-    "chinese": "因为人太多而且朋友不在，我很早就离开了。",
-    "english": "I left early because it was too crowded and my friends were not there.",
-    "type": "sentence"
-    },
-    {
-    "category": "Sports: Tennis",
-    "chinese": "我很想去看 2008 年纳达尔与费德勒的温网决赛。",
-    "english": "I would love to have attended the 2008 Wimbledon final between Nadal and Federer.",
-    "type": "sentence"
-    },
-    {
-    "category": "Sports: Tennis",
-    "chinese": "这场比赛持续了将近五小时，纳达尔五盘获胜。",
-    "english": "The match lasted nearly five hours and Nadal won in five sets.",
-    "type": "sentence"
-    },
-    {
-    "category": "Technology & Ads",
-    "chinese": "我看到一则小米 SU7 的广告，主打户外生活方式。",
-    "english": "I saw an advertisement for the Xiaomi SU7 that promoted an outdoor lifestyle.",
-    "type": "sentence"
-    },
-    {
-    "category": "Technology & Ads",
-    "chinese": "这辆车配有迷你冰箱和用于看电影的大屏幕。",
-    "english": "The car has a mini fridge and a large screen for movies.",
-    "type": "sentence"
-    },
-    {
-    "category": "Technology & Ads",
-    "chinese": "座椅可以放平变成床，就像一个小型移动的家。",
-    "english": "The seat can recline into a bed like a small mobile home.",
-    "type": "sentence"
-    },
-    {
-    "category": "E-commerce",
-    "chinese": "转转是中国一个专业做电子产品二手交易的平台。",
-    "english": "Zhuan Zhuan is a professional second-hand site for electronics in China.",
-    "type": "sentence"
-    },
-    {
-    "category": "E-commerce",
-    "chinese": "它的工程师会检查产品并给出成色评级。",
-    "english": "Its engineers inspect products and rate their condition.",
-    "type": "sentence"
-    },
-    {
-    "category": "E-commerce",
-    "chinese": "我在那里买过 iPhone、相机和 MacBook。",
-    "english": "I bought an iPhone, a camera, and a MacBook there.",
-    "type": "sentence"
-    },
-    {
-    "category": "E-commerce",
-    "chinese": "包装干净且环保。",
-    "english": "The packaging was clean and eco-friendly.",
-    "type": "sentence"
-    },
-    {
-    "category": "Health",
-    "chinese": "《读者文摘》的一篇文章说，经常步行能降低患二型糖尿病的风险。",
-    "english": "A Reader’s Digest article said regular walking reduces the risk of type-2 diabetes.",
-    "type": "sentence"
-    },
-    {
-    "category": "Books",
-    "chinese": "我在初中时很喜欢读《哈利·波特》系列。",
-    "english": "I enjoyed reading the Harry Potter series in middle school.",
-    "type": "sentence"
-    },
-    {
-    "category": "Movies",
-    "chinese": "《夏洛特烦恼》让我笑得比任何其他电影都厉害。",
-    "english": ""Goodbye Mr. Loser" made me laugh harder than any other film.",
-    "type": "sentence"
-    },
-    {
-    "category": "Movies",
-    "chinese": "剧情讲述夏洛回到高中并重写他的人生。",
-    "english": "The plot follows Xia Luo, who travels back to high school and rewrites his life.",
-    "type": "sentence"
-    },
-    {
-    "category": "Movies",
-    "chinese": "这部电影提醒我，金钱和名声无法取代真爱与忠诚。",
-    "english": "The film reminds me that money and fame cannot replace true love and loyalty.",
-    "type": "sentence"
-    },
-    {
-    "category": "Courage & Experiences",
-    "chinese": "我最自豪的一张照片是在云南骑大象时拍的。",
-    "english": "The photo I am proud of was taken on an elephant trek in Yunnan.",
-    "type": "sentence"
-    },
-    {
-    "category": "Courage & Experiences",
-    "chinese": "李太太说服我尽管害怕也去尝试这次徒步。",
-    "english": "Mrs. Li persuaded me to try the trek despite my fear.",
-    "type": "sentence"
-    },
-    {
-    "category": "Courage & Experiences",
-    "chinese": "勇气是在恐惧之下仍决定向前。",
-    "english": "Courage is the decision to move forward in spite of fear.",
-    "type": "sentence"
-    },
-    {
-    "category": "TV Shows",
-    "chinese": "《Best Chef》是一档轻松的业余厨师线上烹饪比赛节目。",
-    "english": ""Best Chef" is a relaxed online cooking competition for amateur cooks.",
-    "type": "sentence"
-    },
-    {
-    "category": "TV Shows",
-    "chinese": "我喜欢一位叫苏奶奶的选手，她会做兔子形状的饺子。",
-    "english": "I like a contestant called Grandma Su who makes rabbit-shaped dumplings.",
-    "type": "sentence"
-    },
-    {
-    "category": "TV Shows",
-    "chinese": "我经常和妈妈一起看这档节目。",
-    "english": "I often watch the show with my mom.",
-    "type": "sentence"
-    },
-    {
-    "category": "Objects",
-    "chinese": "我桌上的一台复古蓝牙音箱看起来像 20 世纪 50 年代的收音机。",
-    "english": "A vintage-style Bluetooth speaker on my desk looks like a 1950s radio.",
-    "type": "sentence"
-    },
-    {
-    "category": "Objects",
-    "chinese": "它温暖的声音和情感价值使它在我看来很美。",
-    "english": "Its warm sound and sentimental value make it beautiful to me.",
-    "type": "sentence"
-    },
-    {
-    "category": "How-To: Dumplings",
-    "chinese": "我可以教别人如何做饺子。",
-    "english": "I can teach others how to make dumplings.",
-    "type": "sentence"
-    },
-    {
-    "category": "How-To: Dumplings",
-    "chinese": "流程从新鲜的猪肉、葱、姜、蒜和饺子皮开始。",
-    "english": "The process starts with fresh pork, spring onions, ginger, garlic, and wrappers.",
-    "type": "sentence"
-    },
-    {
-    "category": "How-To: Dumplings",
-    "chinese": "一次多做一些可以在忙的时候把多余的冷冻起来。",
-    "english": "Making a large batch lets you freeze extras for busy days.",
-    "type": "sentence"
-    },
-    {
-    "category": "Fitness",
-    "chinese": "我训练了八个月，在两小时内跑完了半程马拉松。",
-    "english": "I trained for eight months to finish a half-marathon in under two hours.",
-    "type": "sentence"
-    },
-    {
-    "category": "Fitness",
-    "chinese": "我每周四个早晨跑步，并逐步增加距离。",
-    "english": "I ran four mornings a week and increased distance gradually.",
-    "type": "sentence"
-    }
-  ]
+"flashcards": [
+{
+"category": "Music & Artist: G-Dragon",
+"chinese": "我想谈的这位歌手是来自韩国的 G-Dragon。",
+"english": "The singer I want to talk about is G-Dragon from South Korea.",
+"type": "sentence"
+},
+{
+"category": "Music & Artist: G-Dragon",
+"chinese": "他是著名团体 BIGBANG 的队长，同时也保持着令人难以置信的成功个人事业。",
+"english": "He is the leader of the famous group called BIGBANG, and he also maintains an incredibly successful solo career.",
+"type": "sentence"
+},
+{
+"category": "Music Discovery",
+"chinese": "我第一次听说他是在高中，因为他的歌曲《Fantastic Baby》无处不在。",
+"english": "I first heard about him when I was in high school because his song ‘Fantastic Baby’ was everywhere.",
+"type": "sentence"
+},
+{
+"category": "Music Discovery",
+"chinese": "它非常流行且旋律很抓人，定义了 K-pop 多年的全球声音，那时他就抓住了我的注意力。",
+"english": "It was incredibly popular and catchy, defining the sound of K-pop globally for years, and that was when he caught my attention.",
+"type": "sentence"
+},
+{
+"category": "Music Listening Habit",
+"chinese": "现在，我经常在公交车上或只是在家放松时用手机听他的音乐。",
+"english": "Now, I often listen to his music on my phone when I’m on the bus or just relaxing at home.",
+"type": "sentence"
+},
+{
+"category": "Music Style",
+"chinese": "他的主要音乐风格是流行和嘻哈，但他巧妙地将这些流派与电子音效混合，这让歌曲听起来非常现代和令人兴奋。",
+"english": "His primary musical style is pop and hip-hop, but he cleverly mixes these music styles/genres with electronic sounds, which makes the tracks feel very modern and exciting.",
+"type": "sentence"
+},
+{
+"category": "Music Style",
+"chinese": "其结果是音乐总是活力的，在我需要提振精神时非常适合聆听。",
+"english": "The result is music that is always dynamic and perfect for listening to when I need a boost of energy.",
+"type": "sentence"
+},
+{
+"category": "Creativity & Talent",
+"chinese": "我喜欢他和他的音乐的主要原因是他不只是一个歌手；他也是大部分歌曲的词曲作者和制作人，对每个创意元素都负责。",
+"english": "The main reason I like him and his music is that he is not just a singer; he is also the person who writes and produces most of his songs, taking responsibility for every creative element.",
+"type": "sentence"
+},
+{
+"category": "Creativity & Talent",
+"chinese": "这种深入的参与让他的作品感觉非常个人化和真实。",
+"english": "This thorough/deep/comprehensive involvement makes his work feel very personal and real.",
+"type": "sentence"
+},
+{
+"category": "Creativity & Talent",
+"chinese": "例如，他的一首个人单曲《Crooked》以一种非常有力的方式讲述了心碎和迷失的感觉。",
+"english": "For example, one of his solo tracks, ‘Crooked,’ talks about heartbreak and feeling lost in a very powerful way.",
+"type": "sentence"
+},
+{
+"category": "Inspiration",
+"chinese": "当我听他的音乐时，我感到充满活力，也深受启发，因为他展现了你可以在不妥协的情况下保持高度的创造力和忠于自我。",
+"english": "When I listen to his music, I feel energetic and also deeply inspired, as he shows that you can be highly creative and true to yourself without compromise.",
+"type": "sentence"
+},
+{
+"category": "Fashion Icon",
+"chinese": "我要把 G-Dragon 描述成我认识的穿着最不寻常和最独特衣服的人。",
+"english": "I'm going to describe G-Dragon, a famous Korean musician, as the person who wears the most unusual and unique clothes I know.",
+"type": "sentence"
+},
+{
+"category": "Fashion Discovery",
+"chinese": "虽然我个人不认识他，但我密切关注他的社交媒体，所以我觉得我对他的风格很了解。",
+"english": "While I don't know him personally, I follow him closely on social media, so I feel like I know his style very well.",
+"type": "sentence"
+},
+{
+"category": "Fashion Style",
+"chinese": "他的时尚感总是非常特别，与大多数人的穿着不同，总是以大胆的设计挑战传统的时尚标准。",
+"english": "His fashion sense is always very special and different from what most people wear, always challenging conventional fashion standards with bold designs.",
+"type": "sentence"
+},
+{
+"category": "Fashion Style",
+"chinese": "他的服装非常有创意，而且常常出乎意料。",
+"english": "His outfits are incredibly creative and often unpredictable.",
+"type": "sentence"
+},
+{
+"category": "Fashion Details",
+"chinese": "有时他会用色彩鲜艳的设计师鞋子搭配独特的复古单品/配饰，而其他时候他可能会穿一件意想不到的单品，比如结构化的裙子或一件超大号的定制夹克。",
+"english": "Sometimes he mixes colorful designer shoes with unique vintage items/earrings/belts/shoes/watches, and other times he might wear unexpected pieces like a structured skirt or an extremely oversized, tailored jacket.",
+"type": "sentence"
+},
+{
+"category": "Fashion Attitude",
+"chinese": "他显然不害怕尝试新事物和突破界限，这在一个拥有如此大公共平台的公众人物身上，让我觉得很了不起。",
+"english": "He is clearly not afraid to try new things and push boundaries, which I find admirable in someone with such a large public platform.",
+"type": "sentence"
+},
+{
+"category": "Fashion Example",
+"chinese": "例如，我记得看到一张他出席一个重要时装秀的照片，他穿着一套亮红色的皮装，搭配许多银色链条，这身打扮既大胆又非常不寻常，但他穿出了巨大的自信。",
+"english": "For example, I remember seeing a photo where he attended a major fashion show wearing a bright red leather outfit paired with many silver chains, a look that was both bold and very unusual, but which he wore with immense confidence.",
+"type": "sentence"
+},
+{
+"category": "Fashion Philosophy",
+"chinese": "我认为他的衣服如此独特的核心原因是，他将时尚视为他艺术和音乐表演的延伸。",
+"english": "I think the core reason why his clothes are so unique is that he views fashion as an extension of his art and musical performance.",
+"type": "sentence"
+},
+{
+"category": "Fashion Philosophy",
+"chinese": "他穿着打扮不是为了追随瞬间的潮流或墨守成规的社交规则；他穿着纯粹是为了表达他复杂的个性和当前的心情，本质上是把自己的身体当作画布。",
+"english": "He doesn't dress to follow momentary trends or stick to strict social rules; he dresses solely to express his complex personality and his current mood, essentially treating his body like a canvas.",
+"type": "sentence"
+},
+{
+"category": "Fashion Impact",
+"chinese": "他已经成为了一个真正的时尚偶像，不仅影响了亚洲，也影响了全球的街头风格，这就是为什么我认为他是我认识的最有创意着装的人。",
+"english": "He has become a true fashion icon, influencing not just Asia, but also global street style, which is why I consider him the most creatively dressed person I know.",
+"type": "sentence"
+},
+{
+"category": "Creative Person",
+"chinese": "我真正敬佩的创意型人物是韩国音乐家 G-Dragon。",
+"english": "The creative person I really admire is the South Korean musician, G-Dragon.",
+"type": "sentence"
+},
+{
+"category": "Creative Person",
+"chinese": "他被高度评价为词曲作者、制作人和文化人物。",
+"english": "He is highly regarded as a songwriter, producer, and cultural figure.",
+"type": "sentence"
+},
+{
+"category": "Music Impact",
+"chinese": "最初打动我的是他作为核心创意引擎，负责创作和谱写了他们大部分的热门歌曲，比如《Fantastic Baby》和《Lies》。",
+"english": "What initially impressed me was the fact that he was the core creative engine, responsible for writing and composing most of their hit songs, such as ‘Fantastic Baby’ and ‘Lies’.",
+"type": "sentence"
+},
+{
+"category": "Industry Innovation",
+"chinese": "我相信他最大的成就是他彻底重新定义了 K-pop 明星的形象。",
+"english": "I believe his greatest achievement is how he completely redefined the image of a K-pop star.",
+"type": "sentence"
+},
+{
+"category": "Industry Innovation",
+"chinese": "在他之前，许多偶像只是表演给他们的歌曲，但他确立了自我制作艺术家的模式，控制自己的声音和信息，这对行业来说是真正的革命性。",
+"english": "Before him, many idols simply performed songs given to them, but he established the model of a self-producing artist who controls their own sound and message, which was truly revolutionary for the industry.",
+"type": "sentence"
+},
+{
+"category": "Creative Diversity",
+"chinese": "我发现他如此具有非凡创造力的原因是他的才华远远超出了音乐创作。",
+"english": "The reason I find him so exceptionally creative is that his talent extends far beyond music composition.",
+"type": "sentence"
+},
+{
+"category": "Creative Diversity",
+"chinese": "他在时尚和舞台表演方面也极具创新性。",
+"english": "He is also immensely innovative in both fashion and stage performance.",
+"type": "sentence"
+},
+{
+"category": "Performance Design",
+"chinese": "例如，他亲自设计他的演唱会舞台，确保每场演出都是一次独特且沉浸式的视觉体验。",
+"english": "For instance, he personally designs his concert stages, ensuring every show is a unique and immersive visual experience.",
+"type": "sentence"
+},
+{
+"category": "Music Video Artistry",
+"chinese": "此外，他的音乐视频一贯具有非常有趣和高度艺术性的概念，通常看起来更像短片、高预算的艺术电影，而非典型的音乐视频。",
+"english": "Furthermore, his music videos consistently feature very interesting and highly artistic concepts, often looking more like short, high-budget art films than typical music videos.",
+"type": "sentence"
+},
+{
+"category": "Originality",
+"chinese": "他似乎总能想出新的点子，并持续避免重复他过去的作品。",
+"english": "He always seems to come up with new ideas and continuously avoids repeating his past work.",
+"type": "sentence"
+},
+{
+"category": "Overall Inspiration",
+"chinese": "对我来说，这种对原创性和创新的持续追求使他成为一个真正的全方位艺术家。",
+"english": "For me, this constant drive for originality and innovation makes him a true, all-around artist.",
+"type": "sentence"
+},
+{
+"category": "Overall Inspiration",
+"chinese": "他成功融合不同创意领域的能力——从写出深刻有力的歌词到引领全球时尚潮流——是我最钦佩他的地方。",
+"english": "His ability to successfully fuse different creative fields—from writing deeply powerful lyrics to setting global fashion trends—is what I truly admire most about him.",
+"type": "sentence"
+},
+{
+"category": "Intelligence & Business Acumen",
+"chinese": "当我想起一个聪明的人时，我立刻想到韩国音乐家 G-Dragon。",
+"english": "When I think of an intelligent person, I immediately think of the South Korean musician, G-Dragon.",
+"type": "sentence"
+},
+{
+"category": "Intelligence & Business Acumen",
+"chinese": "他不仅是一位非常成功的艺术家，也是一个横跨亚洲的重要文化偶像。",
+"english": "He is not only a highly successful artist but also a significant cultural icon across Asia.",
+"type": "sentence"
+},
+{
+"category": "Versatility",
+"chinese": "他所做的事情远远超出了简单的唱歌；他是一名词曲作者、一位一丝不苟的音乐制作人，以及一位真正的时装设计师，在各种创意和商业领域展示了巨大的才华。",
+"english": "What he does goes far beyond simple singing; he is a songwriter, a meticulous music producer, and a genuine fashion designer, demonstrating immense talent across various creative and commercial fields.",
+"type": "sentence"
+},
+{
+"category": "Business Intelligence",
+"chinese": "我认为他非常聪明，因为他拥有非常敏锐的商业头脑和对如何管理一个长期品牌的出色理解。",
+"english": "I believe he is highly intelligent because he possesses a very sharp business mind and an excellent understanding of how to manage a long-term brand.",
+"type": "sentence"
+},
+{
+"category": "Business Strategy",
+"chinese": "他成功地驾驭了竞争激烈的娱乐业，表明他清楚地知道如何建立他的个人品牌并长期保持知名度和影响力，这需要战略思维。",
+"english": "He has successfully navigated the highly competitive entertainment industry, showing that he knows precisely how to build his personal brand and stay famous and relevant for a long period, which requires strategic thinking.",
+"type": "sentence"
+},
+{
+"category": "Business Example",
+"chinese": "他智慧的完美例子是当他创立了自己非常成功的时尚品牌 PEACEMINUSONE 时。它立即变得非常受欢迎，证明了他对市场趋势和青年文化的敏锐洞察力。",
+"english": "A perfect example of his intelligence in action is when he established his own highly successful fashion label called PEACEMINUSONE. It became incredibly popular immediately, proving his acute awareness of market trends and youth culture.",
+"type": "sentence"
+},
+{
+"category": "Creative Intelligence",
+"chinese": "此外，他在一种独特的创意方式上是聪明的。他真正理解年轻人喜欢和渴望什么，这使他能够不断地在音乐和全球时尚中创造和影响新趋势。",
+"english": "Furthermore, he is intelligent in a uniquely creative way. He truly understands what young people like and desire, which allows him to constantly create and influence new trends in both music and global fashion.",
+"type": "sentence"
+},
+{
+"category": "Type of Intelligence",
+"chinese": "因此，他的智慧不是仅仅来自书本或学术研究的传统类型，而是一种特殊而有价值的智慧，它来自于对文化、商业和艺术方向的深刻、直觉的理解。",
+"english": "Therefore, his intelligence is not the traditional kind derived merely from books or academic study, but rather a special and valuable kind that comes from a deep, intuitive understanding of culture, business, and artistic direction.",
+"type": "sentence"
+},
+{
+"category": "Type of Intelligence",
+"chinese": "这种创造力与商业头脑的融合使他的智慧如此特别。",
+"english": "That blend of creativity and commercial sense is what makes his intelligence so special.",
+"type": "sentence"
+},
+{
+"category": "Music & Artist: G-Dragon",
+"chinese": "我想谈的这位歌手是来自韩国的 G-Dragon。",
+"english": "The singer I want to talk about is G-Dragon from South Korea.",
+"type": "sentence"
+},
+{
+"category": "Music & Artist: G-Dragon",
+"chinese": "他是 BIGBANG 的队长，同时也有非常成功的个人事业。",
+"english": "He is the leader of BIGBANG and also has a very successful solo career.",
+"type": "sentence"
+},
+{
+"category": "Music & Artist: G-Dragon",
+"chinese": "我在高中第一次认识他，因为他的歌曲《Fantastic Baby》到处都在播放。",
+"english": "I first knew about him in high school because his song "Fantastic Baby" was everywhere.",
+"type": "sentence"
+},
+{
+"category": "Music & Artist: G-Dragon",
+"chinese": "我现在在公交车上或在家用手机听他的音乐。",
+"english": "I now listen to his music on my phone on the bus or at home.",
+"type": "sentence"
+},
+{
+"category": "Music & Artist: G-Dragon",
+"chinese": "他的音乐主要是流行与嘻哈，混合电子元素。",
+"english": "His music is mainly pop and hip-hop mixed with electronic sounds.",
+"type": "sentence"
+},
+{
+"category": "Music & Artist: G-Dragon",
+"chinese": "他自己创作并制作大部分歌曲。",
+"english": "He writes and produces most of his songs.",
+"type": "sentence"
+},
+{
+"category": "Music & Artist: G-Dragon",
+"chinese": "《Crooked》以有力的方式讲述了心碎。",
+"english": ""Crooked" talks about heartbreak in a powerful way.",
+"type": "sentence"
+},
+{
+"category": "Music & Artist: G-Dragon",
+"chinese": "他的作品让我感到充满活力并受到启发。",
+"english": "His work makes me feel energetic and inspired.",
+"type": "sentence"
+},
+{
+"category": "Fashion & Style: G-Dragon",
+"chinese": "我在社交媒体上关注 G-Dragon，并且对他的风格很熟悉。",
+"english": "I follow G-Dragon on social media and know his style well.",
+"type": "sentence"
+},
+{
+"category": "Fashion & Style: G-Dragon",
+"chinese": "他的衣服独特，与他人所穿的不同。",
+"english": "His clothes are unique and different from what other people wear.",
+"type": "sentence"
+},
+{
+"category": "Fashion & Style: G-Dragon",
+"chinese": "他有时穿色彩丰富的设计师街头服饰。",
+"english": "Sometimes he wears colorful designer streetwear.",
+"type": "sentence"
+},
+{
+"category": "Fashion & Style: G-Dragon",
+"chinese": "他不怕尝试新事物。",
+"english": "He is not afraid to try new things.",
+"type": "sentence"
+},
+{
+"category": "Fashion & Style: G-Dragon",
+"chinese": "他把时尚看作艺术。",
+"english": "He sees fashion as art.",
+"type": "sentence"
+},
+{
+"category": "Fashion & Style: G-Dragon",
+"chinese": "他的穿着用来表达个性与心情。",
+"english": "He dresses to express his personality and mood.",
+"type": "sentence"
+},
+{
+"category": "Fashion & Style: G-Dragon",
+"chinese": "他引领潮流，许多年轻人模仿他的风格。",
+"english": "He is a trendsetter and many young people copy his style.",
+"type": "sentence"
+},
+{
+"category": "Business & Brand: G-Dragon",
+"chinese": "他是作词人、制作人和时装设计师。",
+"english": "He is a songwriter, producer, and fashion designer.",
+"type": "sentence"
+},
+{
+"category": "Business & Brand: G-Dragon",
+"chinese": "他有敏锐的商业头脑，擅长打造自己的品牌。",
+"english": "He has a sharp business mind and builds his brand well.",
+"type": "sentence"
+},
+{
+"category": "Business & Brand: G-Dragon",
+"chinese": "他创立了时尚品牌 PEACEMINUSONE。",
+"english": "He founded the fashion label PEACEMINUSONE.",
+"type": "sentence"
+},
+{
+"category": "Business & Brand: G-Dragon",
+"chinese": "该品牌立刻变得非常受欢迎。",
+"english": "The label became incredibly popular immediately.",
+"type": "sentence"
+},
+{
+"category": "Business & Brand: G-Dragon",
+"chinese": "他了解年轻人的喜好并创造新趋势。",
+"english": "He understands what young people like and creates new trends.",
+"type": "sentence"
+},
+{
+"category": "People & Community: Grandma Su",
+"chinese": "我的邻居苏奶奶经营着一家很受欢迎的饺子馆。",
+"english": "My neighbor, Grandma Su, owns a popular dumpling restaurant.",
+"type": "sentence"
+},
+{
+"category": "People & Community: Grandma Su",
+"chinese": "二十多年来她和丈夫以及儿子一起经营这家生意。",
+"english": "She ran the business with her husband and son for more than two decades.",
+"type": "sentence"
+},
+{
+"category": "People & Community: Grandma Su",
+"chinese": "在退休前，她从厨房到客服都一手打理。",
+"english": "Before retiring, she managed everything from the kitchen to customer service.",
+"type": "sentence"
+},
+{
+"category": "People & Community: Grandma Su",
+"chinese": "现在由她的儿子负责日常运营，而她几乎每天仍在帮忙。",
+"english": "Her son now handles daily operations, and she still helps almost every day.",
+"type": "sentence"
+},
+{
+"category": "People & Community: Grandma Su",
+"chinese": "她曾邀请我进去并教我包饺子。",
+"english": "She once invited me in and taught me how to make dumplings.",
+"type": "sentence"
+},
+{
+"category": "People & Community: Grandma Su",
+"chinese": "在中国文化中，制作与分享饺子是珍贵的家庭传统。",
+"english": "Making and sharing dumplings is a cherished family tradition in Chinese culture.",
+"type": "sentence"
+},
+{
+"category": "People & Community: Grandma Su",
+"chinese": "她指导我准备面团和新鲜食材。",
+"english": "She guided me through preparing the dough and fresh ingredients.",
+"type": "sentence"
+},
+{
+"category": "People & Community: Grandma Su",
+"chinese": "我们把饺子折成有创意的形状，然后下锅煮。",
+"english": "We folded the dumplings into creative shapes and then boiled them.",
+"type": "sentence"
+},
+{
+"category": "People & Community: Grandma Su",
+"chinese": "她乐观、勤劳且精力充沛。",
+"english": "She is optimistic, diligent, and full of energy.",
+"type": "sentence"
+},
+{
+"category": "Gardening",
+"chinese": "她在阳台上种了葱、姜、蒜、泰国罗勒和西红柿。",
+"english": "She grows spring onions, ginger, garlic, Thai basil, and tomatoes on her balcony.",
+"type": "sentence"
+},
+{
+"category": "Gardening",
+"chinese": "她把一个小小的城市阳台改造成了高产的迷你花园。",
+"english": "She transformed a small city balcony into a productive mini garden.",
+"type": "sentence"
+},
+{
+"category": "Gardening",
+"chinese": "她自家种的食材比市场买的更好吃。",
+"english": "Her homegrown ingredients taste better than those from the market.",
+"type": "sentence"
+},
+{
+"category": "Family & Traditions",
+"chinese": "我保留着一本记录我们家族历史的相册。",
+"english": "I keep a photo album that holds our family history.",
+"type": "sentence"
+},
+{
+"category": "Family & Traditions",
+"chinese": "父母结婚后开始制作它，如今已有二十五年以上历史。",
+"english": "My parents started it after they married, and it is over 25 years old.",
+"type": "sentence"
+},
+{
+"category": "Family & Traditions",
+"chinese": "我们在特殊的日子翻看相册并分享照片背后的故事。",
+"english": "We open it on special occasions and share stories behind the pictures.",
+"type": "sentence"
+},
+{
+"category": "Family & Traditions",
+"chinese": "它是一件展示我们家庭如何成长的珍宝。",
+"english": "It is a treasure that shows how our family has grown.",
+"type": "sentence"
+},
+{
+"category": "Family & Traditions",
+"chinese": "除夕夜我们全家一起包饺子。",
+"english": "On Chinese New Year’s Eve we made dumplings together as a family.",
+"type": "sentence"
+},
+{
+"category": "Family & Traditions",
+"chinese": "奶奶擀皮，孩子们来包饺子。",
+"english": "My grandma made the wrappers and the kids folded the dumplings.",
+"type": "sentence"
+},
+{
+"category": "Family & Traditions",
+"chinese": "这顿团圆饭很有意义，因为我们难得在同一座城市相聚。",
+"english": "The dinner was meaningful because we rarely gather in one city.",
+"type": "sentence"
+},
+{
+"category": "Travel & Nature",
+"chinese": "去年夏天我夜爬武功山，只为看日出。",
+"english": "Last summer I hiked Wugong Mountain overnight to catch the sunrise.",
+"type": "sentence"
+},
+{
+"category": "Travel & Nature",
+"chinese": "天空变成金色，云海如雾。",
+"english": "The sky turned golden and the clouds looked like a sea of mist.",
+"type": "sentence"
+},
+{
+"category": "Travel & Nature",
+"chinese": "因为人太多而且朋友不在，我很早就离开了。",
+"english": "I left early because it was too crowded and my friends were not there.",
+"type": "sentence"
+},
+{
+"category": "Sports: Tennis",
+"chinese": "我很想去看 2008 年纳达尔与费德勒的温网决赛。",
+"english": "I would love to have attended the 2008 Wimbledon final between Nadal and Federer.",
+"type": "sentence"
+},
+{
+"category": "Sports: Tennis",
+"chinese": "这场比赛持续了将近五小时，纳达尔五盘获胜。",
+"english": "The match lasted nearly five hours and Nadal won in five sets.",
+"type": "sentence"
+},
+{
+"category": "Technology & Ads",
+"chinese": "我看到一则小米 SU7 的广告，主打户外生活方式。",
+"english": "I saw an advertisement for the Xiaomi SU7 that promoted an outdoor lifestyle.",
+"type": "sentence"
+},
+{
+"category": "Technology & Ads",
+"chinese": "这辆车配有迷你冰箱和用于看电影的大屏幕。",
+"english": "The car has a mini fridge and a large screen for movies.",
+"type": "sentence"
+},
+{
+"category": "Technology & Ads",
+"chinese": "座椅可以放平变成床，就像一个小型移动的家。",
+"english": "The seat can recline into a bed like a small mobile home.",
+"type": "sentence"
+},
+{
+"category": "E-commerce",
+"chinese": "转转是中国一个专业做电子产品二手交易的平台。",
+"english": "Zhuan Zhuan is a professional second-hand site for electronics in China.",
+"type": "sentence"
+},
+{
+"category": "E-commerce",
+"chinese": "它的工程师会检查产品并给出成色评级。",
+"english": "Its engineers inspect products and rate their condition.",
+"type": "sentence"
+},
+{
+"category": "E-commerce",
+"chinese": "我在那里买过 iPhone、相机和 MacBook。",
+"english": "I bought an iPhone, a camera, and a MacBook there.",
+"type": "sentence"
+},
+{
+"category": "E-commerce",
+"chinese": "包装干净且环保。",
+"english": "The packaging was clean and eco-friendly.",
+"type": "sentence"
+},
+{
+"category": "Health",
+"chinese": "《读者文摘》的一篇文章说，经常步行能降低患二型糖尿病的风险。",
+"english": "A Reader’s Digest article said regular walking reduces the risk of type-2 diabetes.",
+"type": "sentence"
+},
+{
+"category": "Books",
+"chinese": "我在初中时很喜欢读《哈利·波特》系列。",
+"english": "I enjoyed reading the Harry Potter series in middle school.",
+"type": "sentence"
+},
+{
+"category": "Movies",
+"chinese": "《夏洛特烦恼》让我笑得比任何其他电影都厉害。",
+"english": ""Goodbye Mr. Loser" made me laugh harder than any other film.",
+"type": "sentence"
+},
+{
+"category": "Movies",
+"chinese": "剧情讲述夏洛回到高中并重写他的人生。",
+"english": "The plot follows Xia Luo, who travels back to high school and rewrites his life.",
+"type": "sentence"
+},
+{
+"category": "Movies",
+"chinese": "这部电影提醒我，金钱和名声无法取代真爱与忠诚。",
+"english": "The film reminds me that money and fame cannot replace true love and loyalty.",
+"type": "sentence"
+},
+{
+"category": "Courage & Experiences",
+"chinese": "我最自豪的一张照片是在云南骑大象时拍的。",
+"english": "The photo I am proud of was taken on an elephant trek in Yunnan.",
+"type": "sentence"
+},
+{
+"category": "Courage & Experiences",
+"chinese": "李太太说服我尽管害怕也去尝试这次徒步。",
+"english": "Mrs. Li persuaded me to try the trek despite my fear.",
+"type": "sentence"
+},
+{
+"category": "Courage & Experiences",
+"chinese": "勇气是在恐惧之下仍决定向前。",
+"english": "Courage is the decision to move forward in spite of fear.",
+"type": "sentence"
+},
+{
+"category": "TV Shows",
+"chinese": "《Best Chef》是一档轻松的业余厨师线上烹饪比赛节目。",
+"english": ""Best Chef" is a relaxed online cooking competition for amateur cooks.",
+"type": "sentence"
+},
+{
+"category": "TV Shows",
+"chinese": "我喜欢一位叫苏奶奶的选手，她会做兔子形状的饺子。",
+"english": "I like a contestant called Grandma Su who makes rabbit-shaped dumplings.",
+"type": "sentence"
+},
+{
+"category": "TV Shows",
+"chinese": "我经常和妈妈一起看这档节目。",
+"english": "I often watch the show with my mom.",
+"type": "sentence"
+},
+{
+"category": "Objects",
+"chinese": "我桌上的一台复古蓝牙音箱看起来像 20 世纪 50 年代的收音机。",
+"english": "A vintage-style Bluetooth speaker on my desk looks like a 1950s radio.",
+"type": "sentence"
+},
+{
+"category": "Objects",
+"chinese": "它温暖的声音和情感价值使它在我看来很美。",
+"english": "Its warm sound and sentimental value make it beautiful to me.",
+"type": "sentence"
+},
+{
+"category": "How-To: Dumplings",
+"chinese": "我可以教别人如何做饺子。",
+"english": "I can teach others how to make dumplings.",
+"type": "sentence"
+},
+{
+"category": "How-To: Dumplings",
+"chinese": "流程从新鲜的猪肉、葱、姜、蒜和饺子皮开始。",
+"english": "The process starts with fresh pork, spring onions, ginger, garlic, and wrappers.",
+"type": "sentence"
+},
+{
+"category": "How-To: Dumplings",
+"chinese": "一次多做一些可以在忙的时候把多余的冷冻起来。",
+"english": "Making a large batch lets you freeze extras for busy days.",
+"type": "sentence"
+},
+{
+"category": "Fitness",
+"chinese": "我训练了八个月，在两小时内跑完了半程马拉松。",
+"english": "I trained for eight months to finish a half-marathon in under two hours.",
+"type": "sentence"
+},
+{
+"category": "Fitness",
+"chinese": "我每周四个早晨跑步，并逐步增加距离。",
+"english": "I ran four mornings a week and increased distance gradually.",
+"type": "sentence"
+}
+]
 }
