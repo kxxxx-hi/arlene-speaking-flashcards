@@ -791,7 +791,121 @@
 {"category":"实用连接与口语化表达","chinese":"利用周末","english":"make use of the weekend","type":"vocabulary"},
 {"category":"实用连接与口语化表达","chinese":"独自","english":"on my own","type":"vocabulary"},
 {"category":"实用连接与口语化表达","chinese":"你知道的（口语）","english":"you know","type":"vocabulary"},
-{"category":"实用连接与口语化表达","chinese":"你猜怎么着（口语）","english":"guess what","type":"vocabulary"}
+{"category":"实用连接与口语化表达","chinese":"你猜怎么着（口语）","english":"guess what","type":"vocabulary"},
+  
+{"category":"便利店与社区","chinese":"小区入口","english":"at the entrance of the residential community","type":"vocabulary"},
+{"category":"便利店与社区","chinese":"步行一分钟","english":"a one-minute walk","type":"vocabulary"},
+{"category":"便利店与社区","chinese":"顺道去一趟","english":"drop by","type":"vocabulary"},
+{"category":"便利店与社区","chinese":"代收点","english":"parcel pick-up point","type":"vocabulary"},
+{"category":"便利店与社区","chinese":"隔天一次","english":"every other day","type":"vocabulary"},
+{"category":"便利店与社区","chinese":"热情微笑迎客","english":"welcome customers with a warm smile","type":"vocabulary"},
+
+{"category":"家与情感","chinese":"四层楼房","english":"four-storey building","type":"vocabulary"},
+{"category":"家与情感","chinese":"承载回忆","english":"hold a lot of memories","type":"vocabulary"},
+{"category":"家与情感","chinese":"从小一起长大","english":"grow up side by side","type":"vocabulary"},
+{"category":"家与情感","chinese":"亲密无间","english":"thick as thieves","type":"vocabulary"},
+{"category":"家与情感","chinese":"整洁的客厅","english":"tidy living room","type":"vocabulary"},
+{"category":"家与情感","chinese":"舒适与熟悉感","english":"comfort and familiarity","type":"vocabulary"},
+
+{"category":"体育与场馆","chinese":"公共体育公园","english":"public sports park","type":"vocabulary"},
+{"category":"体育与场馆","chinese":"标准球场","english":"full-size court","type":"vocabulary"},
+{"category":"体育与场馆","chinese":"维护良好","english":"well-maintained","type":"vocabulary"},
+{"category":"体育与场馆","chinese":"候场","english":"wait on the side","type":"vocabulary"},
+{"category":"体育与场馆","chinese":"轮换上场","english":"join the next game","type":"vocabulary"},
+{"category":"体育与场馆","chinese":"凝聚社区","english":"bring people together","type":"vocabulary"},
+{"category":"体育与场馆","chinese":"热闹的氛围","english":"lively atmosphere","type":"vocabulary"},
+
+{"category":"自然与生态","chinese":"热带雨林","english":"tropical rainforest","type":"vocabulary"},
+{"category":"自然与生态","chinese":"粗壮藤蔓","english":"thick vines","type":"vocabulary"},
+{"category":"自然与生态","chinese":"奇异植物","english":"exotic plants","type":"vocabulary"},
+{"category":"自然与生态","chinese":"自然栖息地","english":"natural habitat","type":"vocabulary"},
+{"category":"自然与生态","chinese":"亲近自然","english":"get close to nature","type":"vocabulary"},
+{"category":"自然与生态","chinese":"提高环保意识","english":"raise awareness of environmental protection","type":"vocabulary"},
+
+{"category":"户外与旅行","chinese":"夜爬","english":"night hike","type":"vocabulary"},
+{"category":"户外与旅行","chinese":"社交媒体爆红景点","english":"place popular on social media","type":"vocabulary"},
+{"category":"户外与旅行","chinese":"塑料垃圾","english":"plastic waste","type":"vocabulary"},
+{"category":"户外与旅行","chinese":"乱扔垃圾","english":"littering","type":"vocabulary"},
+{"category":"户外与旅行","chinese":"增设垃圾桶","english":"install more trash bins","type":"vocabulary"},
+{"category":"户外与旅行","chinese":"志愿者劝导","english":"volunteer reminders","type":"vocabulary"},
+{"category":"户外与旅行","chinese":"慢慢游览","english":"take it slower","type":"vocabulary"},
+
+{"category":"城市与文化","chinese":"历史与文化价值","english":"historical and cultural significance","type":"vocabulary"},
+{"category":"城市与文化","chinese":"岩石刻诗","english":"poems carved into rock","type":"vocabulary"},
+{"category":"城市与文化","chinese":"不过度商业化","english":"not overly commercialized","type":"vocabulary"},
+{"category":"城市与文化","chinese":"清静角落","english":"quiet corners","type":"vocabulary"},
+{"category":"城市与文化","chinese":"艺术馆","english":"art gallery","type":"vocabulary"},
+{"category":"城市与文化","chinese":"毕业展","english":"graduate exhibition","type":"vocabulary"},
+{"category":"城市与文化","chinese":"租电动车","english":"rent an electric bike","type":"vocabulary"},
+
+{"category":"叙事与时间","chinese":"偶尔","english":"from time to time","type":"vocabulary"},
+{"category":"叙事与时间","chinese":"就在昨天","english":"just yesterday","type":"vocabulary"},
+{"category":"叙事与时间","chinese":"起初","english":"at first","type":"vocabulary"},
+{"category":"叙事与时间","chinese":"最终","english":"in the end","type":"vocabulary"},
+{"category":"叙事与时间","chinese":"后来最终","english":"eventually","type":"vocabulary"},
+{"category":"叙事与时间","chinese":"回头看","english":"looking back","type":"vocabulary"},
+
+{"category":"意外与问题","chinese":"迷路","english":"lose my way","type":"vocabulary"},
+{"category":"意外与问题","chinese":"停电","english":"blackout","type":"vocabulary"},
+{"category":"意外与问题","chinese":"续航变差","english":"poor battery life","type":"vocabulary"},
+{"category":"意外与问题","chinese":"管理不善","english":"poorly managed","type":"vocabulary"},
+{"category":"意外与问题","chinese":"退换流程","english":"return or replacement process","type":"vocabulary"},
+{"category":"意外与问题","chinese":"手机滑手落水","english":"phone slipped out of my hand","type":"vocabulary"},
+
+{"category":"服务与消费","chinese":"店长","english":"store manager","type":"vocabulary"},
+{"category":"服务与消费","chinese":"免费更换电池","english":"replace the battery for free","type":"vocabulary"},
+{"category":"服务与消费","chinese":"为不便致歉","english":"apologize for the inconvenience","type":"vocabulary"},
+{"category":"服务与消费","chinese":"客服","english":"customer service","type":"vocabulary"},
+{"category":"服务与消费","chinese":"年中大促","english":"mid-year sale","type":"vocabulary"},
+{"category":"服务与消费","chinese":"价格昂贵","english":"costs an arm and a leg","type":"vocabulary"},
+
+{"category":"美食与传统","chinese":"年夜饭","english":"Chinese New Year’s Eve dinner","type":"vocabulary"},
+{"category":"美食与传统","chinese":"包饺子","english":"make dumplings","type":"vocabulary"},
+{"category":"美食与传统","chinese":"饺子皮与馅","english":"wrappers and filling","type":"vocabulary"},
+{"category":"美食与传统","chinese":"一起下锅煮","english":"boil the dumplings","type":"vocabulary"},
+{"category":"美食与传统","chinese":"家庭传统","english":"family tradition","type":"vocabulary"},
+
+{"category":"社交与道歉","chinese":"把计划搞砸","english":"mess up the plan","type":"vocabulary"},
+{"category":"社交与道歉","chinese":"诚恳道歉","english":"make a sincere apology","type":"vocabulary"},
+{"category":"社交与道歉","chinese":"尊重隐私边界","english":"respect privacy boundaries","type":"vocabulary"},
+{"category":"社交与道歉","chinese":"平易近人","english":"approachable","type":"vocabulary"},
+{"category":"社交与道歉","chinese":"懂科技","english":"tech-savvy","type":"vocabulary"},
+{"category":"社交与道歉","chinese":"充满活力","english":"full of positive energy","type":"vocabulary"},
+
+{"category":"学习与提升","chinese":"雅思口语评分标准","english":"IELTS speaking criteria","type":"vocabulary"},
+{"category":"学习与提升","chinese":"流利与连贯","english":"fluency and coherence","type":"vocabulary"},
+{"category":"学习与提升","chinese":"词汇多样性","english":"vocabulary range","type":"vocabulary"},
+{"category":"学习与提升","chinese":"语法准确性","english":"grammar accuracy","type":"vocabulary"},
+{"category":"学习与提升","chinese":"有针对性练习","english":"targeted practice","type":"vocabulary"},
+{"category":"学习与提升","chinese":"评分细则","english":"marking rubric","type":"vocabulary"},
+
+{"category":"心理与决定","chinese":"过度思考","english":"overthinking","type":"vocabulary"},
+{"category":"心理与决定","chinese":"打破恶性循环","english":"break the cycle","type":"vocabulary"},
+{"category":"心理与决定","chinese":"更健康的作息","english":"healthier routine","type":"vocabulary"},
+{"category":"心理与决定","chinese":"戒外卖","english":"give up takeouts","type":"vocabulary"},
+{"category":"心理与决定","chinese":"公务员","english":"civil servant","type":"vocabulary"},
+
+{"category":"数字生活与媒体","chinese":"美颜滤镜","english":"beauty filter","type":"vocabulary"},
+{"category":"数字生活与媒体","chinese":"大存储","english":"large storage capacity","type":"vocabulary"},
+{"category":"数字生活与媒体","chinese":"视频剪辑","english":"video editing","type":"vocabulary"},
+{"category":"数字生活与媒体","chinese":"视频走红","english":"go viral","type":"vocabulary"},
+
+{"category":"金钱与礼物","chinese":"520（谐音“我爱你”）","english":"520 yuan (sounds like “I love you”)","type":"vocabulary"},
+{"category":"金钱与礼物","chinese":"犒劳自己","english":"treat myself","type":"vocabulary"},
+{"category":"金钱与礼物","chinese":"小小心意","english":"small gesture","type":"vocabulary"},
+{"category":"金钱与礼物","chinese":"被关心的感觉","english":"feel cared for","type":"vocabulary"},
+
+{"category":"学习分享","chinese":"读书汇报","english":"book report project","type":"vocabulary"},
+{"category":"学习分享","chinese":"象征意义","english":"symbolism","type":"vocabulary"},
+{"category":"学习分享","chinese":"新视角","english":"new perspectives","type":"vocabulary"},
+{"category":"学习分享","chinese":"小组展示","english":"group presentation","type":"vocabulary"},
+{"category":"学习分享","chinese":"高分评价","english":"high marks","type":"vocabulary"},
+
+{"category":"公共秩序与行为","chinese":"公共场合失当行为","english":"misbehave in public","type":"vocabulary"},
+{"category":"公共秩序与行为","chinese":"家长引导","english":"parental guidance","type":"vocabulary"},
+{"category":"公共秩序与行为","chinese":"保安指路","english":"ask a security guard for directions","type":"vocabulary"}
+
+
 
 
   
